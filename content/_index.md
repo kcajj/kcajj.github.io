@@ -44,9 +44,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Data analysis of ONT reads
 #        - title: Professor of Semiconductor Physics
 #          company: University X
 #          company_url: ''
@@ -207,14 +205,14 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contacts
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: giacomocastagnetti@gmail.com
+#      phone: 888 888 88 88
+#      appointment_url: 'https://calendly.com'
 #      address:
 #        street: 450 Serra Mall
 #        city: Stanford
@@ -230,7 +228,7 @@ sections:
 #      coordinates:
 #        latitude: '37.4275'
 #        longitude: '-122.1697'  
-#      contact_links:
+      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
 #          name: DM Me
@@ -243,6 +241,12 @@ sections:
 #          icon_pack: fas
 #          name: Zoom Me
 #          link: 'https://zoom.com'
+        - icon: github
+          icon_pack: fab
+          link: https://github.com/kcajj
+        - icon: linkedin
+          icon_pack: fab
+          link: https://www.linkedin.com/in/giacomo-castagnetti
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
