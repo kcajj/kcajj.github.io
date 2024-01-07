@@ -243,9 +243,11 @@ sections:
 #          link: 'https://zoom.com'
         - icon: github
           icon_pack: fab
+          name: GitHub
           link: https://github.com/kcajj
         - icon: linkedin
           icon_pack: fab
+          name: LinkedIn
           link: https://www.linkedin.com/in/giacomo-castagnetti
       # Automatically link email and phone or display as text?
       autolink: true
