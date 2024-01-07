@@ -14,6 +14,7 @@ sections:
       username: admin
 
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -23,6 +24,7 @@ sections:
       columns: '1'
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
