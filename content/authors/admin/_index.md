@@ -2,6 +2,9 @@
 # Display name
 title: Giacomo Castagnetti
 
+# Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
+
 # Full name (for SEO)
 first_name: Giacomo
 last_name: Castagnetti
@@ -78,6 +81,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:giacomocastagnettii@gmail.com'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+#   label: Follow me on Twitter
+#   display:
+#     header: true
+# - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/kcajj
