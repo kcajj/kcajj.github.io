@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: undergraduate in Genomics
+role: Master student in Computational Biology and Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Bologna
-    url: https://www.unibo.it/en
+  - name: ETHZ
+    url: https://ethz.ch/de.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a future researcher who loves to solve problems and learn new things
+bio: I'm a future researcher who loves to solve problems and learn new stuff.
 
 # Interests to show in About widget
 interests:
@@ -37,9 +37,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Masters's degree in Computational Biology and Bioinformatics
+      institution: Eidgenössische Technische Hochschule Zürich
+      year: 2024
     - course: Bachelor's degree in Genomics
       institution: University of Bologna
-      year: 2023
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,14 +59,29 @@ skills:
         percent: 60
         icon: chart-line
         icon_pack: fas
+      - name: Mathematical Modelling
+        description: ''
+        percent: 60
+        icon: math
+        icon_pack: fas
   
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Volleyball
+      - name: Baking
         description: ''
         percent: 100
+        icon: bread
+        icon_pack: fab
+      - name: Table tennis
+        description: ''
+        percent: 90
+        icon: tabletennis
+        icon_pack: fab
+      - name: Volleyball
+        description: ''
+        percent: 40
         icon: volleyball
         icon_pack: fab
       - name: Hiking
@@ -80,7 +98,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:giacomocastagnettii@gmail.com'
+    link: 'mailto:gcastagnetti@student.ethz.ch'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -107,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-I am a Bachelor student in Genomics. I aim to become an ETH student at Computational Biology and Bioinformatics course.
+I study Computational Biology and Bioinformatics @ETHZ. I am a science and technology enthusiast who is addicted to learning new things, for this reason I am into interdisciplinary fields.
 {style="text-align: justify;"}

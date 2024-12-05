@@ -42,11 +42,12 @@ sections:
           company_logo: 
           location: Basel, Switzerland
           date_start: '2023-07-17'
-          date_end: '2023-09-08'
+          date_end: '2024-07-20'
           description: |2-
               Responsibilities include:
-
-              * Data analysis of ONT reads
+              * Developing an innovative method for tracking recombination in a population of bacteriophages.
+              * Leveraging the High-Throughput and efficiency of ONT sequencing data to characterize an entire population of heterogeneous phages at once.
+              * Currently writing a paper on the findings
 #        - title: Professor of Semiconductor Physics
 #          company: University X
 #          company_url: ''
@@ -212,7 +213,7 @@ sections:
       text: |-
         
       # Contact (add or remove contact options as necessary)
-      email: giacomocastagnetti@gmail.com
+      email: gcastagnetti@student.ethz.ch
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
