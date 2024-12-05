@@ -62,7 +62,7 @@ skills:
       - name: Mathematical Modelling
         description: ''
         percent: 60
-        icon: math
+        icon: fa-calculator
         icon_pack: fas
   
   - name: Hobbies
@@ -72,18 +72,18 @@ skills:
       - name: Baking
         description: ''
         percent: 100
-        icon: bread
-        icon_pack: fab
+        icon: fa-bread-slice
+        icon_pack: fas
       - name: Table tennis
         description: ''
         percent: 90
-        icon: tabletennis
-        icon_pack: fab
+        icon: fa-table-tennis
+        icon_pack: fas
       - name: Volleyball
         description: ''
         percent: 40
-        icon: volleyball
-        icon_pack: fab
+        icon: fa-volleyball-ball
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 60
