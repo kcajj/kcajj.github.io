@@ -40,16 +40,16 @@ featured: false
 #featured: true
 
 links:
-- name: BioRxiv link
+- name: BioRxiv
   url: https://www.biorxiv.org/content/10.1101/2025.04.16.649189v1.abstract
 url_pdf: https://www.biorxiv.org/content/10.1101/2025.04.16.649189v1.full.pdf
 url_code: 'https://github.com/kcajj/recombinant_population_analysis'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
