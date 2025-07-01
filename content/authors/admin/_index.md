@@ -29,6 +29,7 @@ bio: I am a software enthusiast driven by a passion for biology and a relentless
 
 # Interests to show in About widget
 interests:
+  - Machine Learning
   - Data science
   - Molecular Biology
   - Computational Biology
@@ -49,46 +50,34 @@ education:
 skills:
   - name: Technical
     items:
+      #- name: Python
+      #  description: ''
+      #  percent: 80
+      #  icon: python
+      #  icon_pack: fab
       - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 60
-        icon: chart-line
-        icon_pack: fas
+      - name: R
+      - name: Machine Learning
+      #- name: Data Science
+      #  description: ''
+      #  percent: 60
+      #  icon: chart-line
+      #  icon_pack: fas
       - name: Mathematical Modelling
-        description: ''
-        percent: 60
-        icon: fa-calculator
-        icon_pack: fas
   
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      #- name: Baking
+      #  description: ''
+      #  percent: 100
+      #  icon: fa-bread-slice
+      #  icon_pack: fas
       - name: Baking
-        description: ''
-        percent: 100
-        icon: fa-bread-slice
-        icon_pack: fas
-      - name: Table tennis
-        description: ''
-        percent: 90
-        icon: fa-table-tennis
-        icon_pack: fas
-      - name: Volleyball
-        description: ''
-        percent: 40
-        icon: fa-volleyball-ball
-        icon_pack: fas
       - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
+      - name: Table tennis
+      - name: Volleyball
       
 
 # Social/Academic Networking
