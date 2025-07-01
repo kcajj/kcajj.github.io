@@ -1,0 +1,35 @@
+---
+title: Automated bacteriophage evolution studies with the Aionostat
+authors:
+- Valentin Druelle
+- Marco Molari
+- Giacomo Castagnetti
+- Alexander Harms
+- Richard A Neher
+date: '2025-04-01'
+publishDate: '2025-07-01T10:10:05.646136Z'
+publication_types:
+- manuscript
+publication: '*bioRxiv*'
+abstract: AbstractBacteriophages, the viruses that infect bacteria, are the most abundant
+  and diverse biological entities on our planet. They play a critical role in shaping
+  ecosystems and are increasingly recognized for their potential in treating bacterial
+  infections. Yet, our comprehension of their biology and evolutionary dynamics is
+  limited, largely because research has concentrated on a select few well-characterized
+  phages or relies on broad metagenomic studies with limited follow-up analysis of
+  individual phages. This knowledge gap hinders our capacity to exploit their therapeutic
+  and ecological possibilities -- and while some studies have attempted to bridge
+  it, such efforts typically require a lot of manual labor, highlighting the need
+  for high-throughput, reproducible methods for in-depth study of phage evolution.To
+  address this gap, we introduce the Aionostat, a novel automated continuous culture
+  device designed to facilitate bacteriophage directed evolution experiments at scale.
+  The Aionostat's potential is showcased through two example experiments. In the first,
+  phages from the BASEL collection rapidly adapted to a challengingE. colistrain,
+  acquiring mutations and deletions that improved their infectivity. In the second
+  experiment, we evolved a mixture of these phages on the sameE.colistrain, leading
+  to the emergence of recombinant phages with increased fitness. By automating these
+  experiments, the Aionostat enables faster, more reproducible studies of phage evolution
+  that would be impractical to perform by hand, thereby opening new avenues for investigating
+  viral dynamics, engineering phage therapies, and studying evolutionary principles
+  in broader biological contexts.
+---
