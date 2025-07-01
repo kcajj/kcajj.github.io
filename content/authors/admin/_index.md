@@ -25,7 +25,7 @@ organizations:
     url: https://ethz.ch/de.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a future researcher who loves to solve problems and learn new stuff.
+bio: I am a software enthusiast driven by a passion for biology and a relentless curiosity for learning.
 
 # Interests to show in About widget
 interests:
@@ -125,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-I study Computational Biology and Bioinformatics @ETHZ. I am a science and technology enthusiast who is addicted to learning new things, for this reason I am into interdisciplinary fields.
+I study Computational Biology and Bioinformatics @ETHZ. I am a software enthusiast driven by a passion for biology and a relentless curiosity for learning.
 {style="text-align: justify;"}

@@ -37,12 +37,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Summer student
-          company: Biozentrum
+          company: Biozentrum, Neher Lab
           company_url: ''
           company_logo: 
           location: Basel, Switzerland
           date_start: '2023-07-17'
-          date_end: '2024-07-20'
+          date_end: '2023-09-10'
           description: |2-
               Responsibilities include:
               * Developing an innovative method for tracking recombination in a population of bacteriophages.
