@@ -222,8 +222,7 @@ sections:
     content:
       title: Contacts
       subtitle:
-      text: |-
-        
+      text: ''
       # Contact (add or remove contact options as necessary)
       email: gcastagnetti@student.ethz.ch
 #      phone: 888 888 88 88
