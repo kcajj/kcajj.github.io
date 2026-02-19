@@ -13,16 +13,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: skills
-    id: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-
   - block: experience
     id: experience
     content:
@@ -36,7 +26,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Summer student
+        - title: Drug Design Intern
+          company: ETHZ, ModLab - Gisbert Schneider Group
+          company_url: ''
+          company_logo: 
+          location: Basel, Switzerland
+          date_start: '2025-11-01'
+          date_end: '2026-02-11'
+          description: |2-
+              * Setting up a precise validation framework that highlighted a failure mode of a drug design model.
+              * Improved training time by 20% and implemented multiple successful solutions to the problem.
+              * Provided visualizations and reports for non-technical people on model limitations and next steps.
+        - title: Bioinformatics Intern
           company: Biozentrum, Neher Lab
           company_url: ''
           company_logo: 
@@ -44,10 +45,10 @@ sections:
           date_start: '2023-07-17'
           date_end: '2023-09-10'
           description: |2-
-              Responsibilities include:
-              * Developing an innovative method for tracking recombination in a population of bacteriophages.
-              * Leveraging the High-Throughput and efficiency of ONT sequencing data to characterize an entire population of heterogeneous phages at once.
-              * Currently writing a paper on the findings
+              * Developed a novel tool for tracking recombination in bulk ONT sequencing data (10x faster than the traditional experimental pipeline).
+              * Participated to the drafting and editing of a pre-print.
+              * Tracked the evolution and spreading of West Nile Virus (Nextstrain) (GitHub).
+              * Conducted a wet-lab directed evolution experiment.
 #        - title: Professor of Semiconductor Physics
 #          company: University X
 #          company_url: ''
@@ -205,6 +206,17 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+
+  - block: skills
+    id: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+
   - block: contact
     id: contact
     content:
