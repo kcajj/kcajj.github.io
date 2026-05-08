@@ -26,13 +26,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Machine Learning Intern
+          company: Roche - Jonas Fleck Group
+          company_url: ''
+          company_logo: 
+          location: Basel, Switzerland
+          date_start: '2026-04-08'
+          date_end: '2027-04-08'
+          description: |2-
+              * Building an agnostic molecular encoder for single cell omics data.
         - title: Drug Design Intern
           company: ETHZ, ModLab - Gisbert Schneider Group
           company_url: ''
           company_logo: 
           location: Basel, Switzerland
           date_start: '2025-11-01'
-          date_end: '2026-02-11'
+          date_end: '2026-03-15'
           description: |2-
               * Setting up a precise validation framework that highlighted a failure mode of a drug design model.
               * Improved training time by 20% and implemented multiple successful solutions to the problem.
